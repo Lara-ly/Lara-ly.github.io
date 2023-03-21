@@ -1,6 +1,4 @@
 # Lhhlen.github.io
-Music documentation in free software
 
--Interesting in computer music
-
--Developing some ideas of creation music wih computer and documentation
+Página web acerca de la creación musical colaborativa en la era de internet.
+Los principios del software libre aplicados en la cultura y enlaces, documentación a las distintas plataformas musicales en código libre.
